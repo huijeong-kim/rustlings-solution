@@ -81,4 +81,7 @@ This is a personal repository to upload my solutions to rustling exercises
 ✅ Successfully tested exercises/standard_library_types/iterators4.rs
 ✅ Successfully tested exercises/standard_library_types/iterators5.rs
 ✅ Successfully tested exercises/standard_library_types/box1.rs
+✅ Successfully ran exercises/standard_library_types/arc1.rs!
+✅ Successfully ran exercises/standard_library_types/rc1.rs!
+✅ Successfully ran exercises/standard_library_types/cow1.rs!
 ```
