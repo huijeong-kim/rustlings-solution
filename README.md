@@ -87,4 +87,8 @@ This is a personal repository to upload my solutions to rustling exercises
 ✅ Successfully ran exercises/threads/threads1.rs!
 ✅ Successfully ran exercises/threads/threads2.rs!
 ✅ Successfully ran exercises/threads/threads3.rs!
+✅ Successfully ran exercises/macros/macros1.rs!
+✅ Successfully ran exercises/macros/macros2.rs!
+✅ Successfully ran exercises/macros/macros3.rs!
+✅ Successfully ran exercises/macros/macros4.rs!
 ```
