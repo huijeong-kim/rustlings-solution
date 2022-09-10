@@ -91,4 +91,7 @@ This is a personal repository to upload my solutions to rustling exercises
 ✅ Successfully ran exercises/macros/macros2.rs!
 ✅ Successfully ran exercises/macros/macros3.rs!
 ✅ Successfully ran exercises/macros/macros4.rs!
+✅ Successfully compiled exercises/clippy/clippy1.rs!
+✅ Successfully compiled exercises/clippy/clippy2.rs!
+✅ Successfully compiled exercises/clippy/clippy3.rs!
 ```
