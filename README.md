@@ -84,4 +84,7 @@ This is a personal repository to upload my solutions to rustling exercises
 ✅ Successfully ran exercises/standard_library_types/arc1.rs!
 ✅ Successfully ran exercises/standard_library_types/rc1.rs!
 ✅ Successfully ran exercises/standard_library_types/cow1.rs!
+✅ Successfully ran exercises/threads/threads1.rs!
+✅ Successfully ran exercises/threads/threads2.rs!
+✅ Successfully ran exercises/threads/threads3.rs!
 ```
