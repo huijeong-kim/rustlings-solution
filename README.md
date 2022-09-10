@@ -94,4 +94,9 @@ This is a personal repository to upload my solutions to rustling exercises
 ✅ Successfully compiled exercises/clippy/clippy1.rs!
 ✅ Successfully compiled exercises/clippy/clippy2.rs!
 ✅ Successfully compiled exercises/clippy/clippy3.rs!
+✅ Successfully tested exercises/conversions/using_as.rs
+✅ Successfully tested exercises/conversions/from_into.rs
+✅ Successfully tested exercises/conversions/from_str.rs
+✅ Successfully tested exercises/conversions/try_from_into.rs
+✅ Successfully tested exercises/conversions/as_ref_mut.rs
 ```
